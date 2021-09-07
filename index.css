@@ -149,6 +149,7 @@ h5{
   height: 300px;
   float: left;
   perspective: 500px;
+  padding-left: 5%;
 }
 
 .content {
@@ -198,6 +199,7 @@ h5{
   /* margin: -150px; */
   /* float: right; */
   perspective: 500px;
+  padding-right: 27%;
 }
 
 .content1 {
